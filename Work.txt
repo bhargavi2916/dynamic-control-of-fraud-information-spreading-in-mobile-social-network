@@ -1,0 +1,36 @@
+Admin
+
+Login
+View All Users And Authorize,
+View All Friends Details,
+Add Fileter,
+View All Posts,
+View All Reviews,
+View Fraud Info Spreading,
+View Likes Results.
+
+
+Mobile User
+
+Register and Login,
+My Profile,
+List All Users and Follow,
+List All Follow Request,
+View All My Friends,
+Upload Post,
+View All My Posts,
+View All Friends Posts.
+
+
+
+
+Members
+
+Post Name, 
+Post Uses, 
+Post Description, 
+Article Name, 
+Post Category, 
+Select Image. 
+
+
